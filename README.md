@@ -68,4 +68,5 @@ Please make sure you adhere to the JS styleguide by running `grunt jscs` & `grun
 Indent = 2 spaces.
 
 ## Release History
+ * 2014-07-09   v0.1.1   Fixed problem with comment line count overriding code line count
  * 2014-07-09   v0.1.0   Initial release.
