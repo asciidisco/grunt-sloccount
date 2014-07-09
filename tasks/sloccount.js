@@ -66,7 +66,7 @@ module.exports = function (grunt) {
 
         // check if comments should be tracked seperatly
         if (opts.options.comments !== false) {
-          fs.appendFileSync(reportFile, stats.cloc + '\t' + extname + 'cm' + '\t' + path.dirname(file) + '\t' + fs.realpathSync(file) + '\n', 'utf8');
+          fs.appendFileSync(reportFile, stats.cloc + '\t' + extname + 'cm' + '\t' + path.dirname(file) + '\t' + fs.realpathSync(file) + '.cm' + '\n', 'utf8');
         }
       }
     });
