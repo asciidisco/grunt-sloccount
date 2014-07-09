@@ -1,4 +1,4 @@
-# grunt-sloccount v0.1.0 [![Build Status](https://travis-ci.org/asciidisco/grunt-sloccount.png?branch=master)](https://travis-ci.org/asciidisco/grunt-sloccount)
+# grunt-sloccount [![Build Status](https://travis-ci.org/asciidisco/grunt-sloccount.png?branch=master)](https://travis-ci.org/asciidisco/grunt-sloccount)
 
 > Generate output similar to the [SLOCCount](http://www.dwheeler.com/sloccount/) tool that can be consumed by the [SLOCCount Jenkins Plugin](https://wiki.jenkins-ci.org/display/JENKINS/SLOCCount+Plugin) for HTML, CSS & JS
 
